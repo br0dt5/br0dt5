@@ -1,5 +1,5 @@
 <img src="https://github.com/br0dt5/br0dt5/assets/70347409/0367d1ba-ac9e-43a2-892a-074b0ef891fd" alt="header"><br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=600&pause=1000&color=E62238&center=true&vCenter=true&random=false&width=800&lines=Hello!;My+name+is+Luan.;I'm+a+software+engineer.)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=600&pause=1000&color=E62238&center=true&vCenter=true&random=false&width=700&lines=Hello!;My+name+is+Luan.;I'm+a+software+engineer.)](https://git.io/typing-svg)<br>
 ---
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZwZmp5amhzeHV2ZmMzcDdwbnEweDEyeTRlMzd2M2tpbzFwbDh4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" align="right" width="400" alt="coding gif">
 
@@ -35,4 +35,4 @@ My name is Luan Zaniqueli. I'm a tech-lover and a complete nerd.<br>
 I appreciate your visit. Feel free to contact me.<br>
 Hope you have a wonderful day! And remember:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&weight=600&duration=1&pause=5000&color=fc993f&center=true&vCenter=true&repeat=false&random=false&width=600&lines=A+goal+without+a+plan+is+just+a+wish+-+Antoine+de+Saint-Exup%C3%A9ry)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&weight=400&duration=1&pause=5000&color=fc993f&center=true&vCenter=true&repeat=false&random=false&width=600&lines=A+goal+without+a+plan+is+just+a+wish+-+Antoine+de+Saint-Exup%C3%A9ry)](https://git.io/typing-svg)
